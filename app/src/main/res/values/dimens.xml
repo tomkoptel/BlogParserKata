@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_card_height">120dp</dimen>
+    <dimen name="header_height">40dp</dimen>
+    <dimen name="horizontal_rv">100dp</dimen>
+    <dimen name="small_card_height">60dp</dimen>
+    <dimen name="small_card_width">60dp</dimen>
+</resources>

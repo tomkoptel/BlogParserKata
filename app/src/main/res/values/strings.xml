@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medium Parser</string>
+    <string name="first_10_th_character">Only 10-th character</string>
+    <string name="every_10_th_character">Every 10-th character</string>
+    <string name="word_frequencies">Word frequencies</string>
+    <string name="retry">Retry</string>
+</resources>
