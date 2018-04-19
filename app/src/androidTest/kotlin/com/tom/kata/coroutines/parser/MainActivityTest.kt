@@ -24,6 +24,16 @@ class MainActivityTest {
     @Test
     @OkReplay(mode = TapeMode.READ_ONLY)
     fun first_character_should_be_space() {
+        doTheTest()
+    }
+
+    @Test
+    @OkReplay(mode = TapeMode.READ_ONLY)
+    fun first_character_should_be_space1() {
+        doTheTest()
+    }
+
+    private fun doTheTest() {
         val firstCharacter = onView(
             allOf<View>(
                 childAtPosition(
